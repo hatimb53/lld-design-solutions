@@ -1,6 +1,6 @@
-package taskexecuter.handlers;
+package distributed_task_executor.handlers;
 
-import taskexecuter.models.TaskResponseMeta;
+import distributed_task_executor.models.TaskResponseMeta;
 
 import java.util.Queue;
 import java.util.logging.Logger;

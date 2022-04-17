@@ -1,10 +1,10 @@
-package taskexecuter.nodes;
+package distributed_task_executor.nodes;
 
-import taskexecuter.interfaces.ClientInterface;
-import taskexecuter.interfaces.ResponseHandlerInterface;
-import taskexecuter.interfaces.TaskExecutionInterface;
-import taskexecuter.models.Task;
-import taskexecuter.models.TaskResponse;
+import distributed_task_executor.interfaces.ClientInterface;
+import distributed_task_executor.interfaces.ResponseHandlerInterface;
+import distributed_task_executor.interfaces.TaskExecutionInterface;
+import distributed_task_executor.models.Task;
+import distributed_task_executor.models.TaskResponse;
 
 import java.util.Random;
 import java.util.logging.Level;

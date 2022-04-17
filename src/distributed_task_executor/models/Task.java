@@ -1,9 +1,6 @@
-package taskexecuter.models;
+package distributed_task_executor.models;
 
-import taskexecuter.enums.TaskType;
-import taskexecuter.interfaces.ResponseHandlerInterface;
-
-import java.util.function.Consumer;
+import distributed_task_executor.interfaces.ResponseHandlerInterface;
 
 public class Task {
    public long id;

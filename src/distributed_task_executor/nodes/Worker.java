@@ -1,7 +1,7 @@
-package taskexecuter.nodes;
+package distributed_task_executor.nodes;
 
-import taskexecuter.exceptions.TaskFailedException;
-import taskexecuter.models.Task;
+import distributed_task_executor.exceptions.TaskFailedException;
+import distributed_task_executor.models.Task;
 
 import java.util.Random;
 import java.util.logging.Level;

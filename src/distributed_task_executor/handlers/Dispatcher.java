@@ -1,11 +1,11 @@
-package taskexecuter.handlers;
+package distributed_task_executor.handlers;
 
-import taskexecuter.enums.TaskStatus;
-import taskexecuter.exceptions.TaskFailedException;
-import taskexecuter.models.Task;
-import taskexecuter.models.TaskResponse;
-import taskexecuter.models.TaskResponseMeta;
-import taskexecuter.nodes.Worker;
+import distributed_task_executor.enums.TaskStatus;
+import distributed_task_executor.exceptions.TaskFailedException;
+import distributed_task_executor.models.Task;
+import distributed_task_executor.models.TaskResponse;
+import distributed_task_executor.models.TaskResponseMeta;
+import distributed_task_executor.nodes.Worker;
 
 import java.util.Queue;
 import java.util.logging.Level;

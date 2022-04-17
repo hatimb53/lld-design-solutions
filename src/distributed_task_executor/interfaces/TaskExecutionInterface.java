@@ -1,6 +1,6 @@
-package taskexecuter.interfaces;
+package distributed_task_executor.interfaces;
 
-import taskexecuter.models.Task;
+import distributed_task_executor.models.Task;
 
 public interface TaskExecutionInterface {
      void submitTask(Task task);

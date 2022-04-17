@@ -1,7 +1,7 @@
-package taskexecuter.handlers;
+package distributed_task_executor.handlers;
 
-import taskexecuter.enums.TaskStatus;
-import taskexecuter.models.TaskRuntimeInfo;
+import distributed_task_executor.enums.TaskStatus;
+import distributed_task_executor.models.TaskRuntimeInfo;
 
 import java.util.ArrayList;
 import java.util.List;

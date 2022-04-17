@@ -1,10 +1,10 @@
-package taskexecuter;
+package distributed_task_executor;
 
-import taskexecuter.handlers.DistributedTaskManager;
-import taskexecuter.interfaces.ClientInterface;
-import taskexecuter.nodes.Client;
-import taskexecuter.tasks.examples.AddTask;
-import taskexecuter.tasks.examples.PrintTask;
+import distributed_task_executor.handlers.DistributedTaskManager;
+import distributed_task_executor.interfaces.ClientInterface;
+import distributed_task_executor.nodes.Client;
+import distributed_task_executor.tasks.examples.AddTask;
+import distributed_task_executor.tasks.examples.PrintTask;
 
 public class Application {
     public static void main(String args[]){

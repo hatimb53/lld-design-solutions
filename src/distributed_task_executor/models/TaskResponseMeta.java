@@ -1,6 +1,6 @@
-package taskexecuter.models;
+package distributed_task_executor.models;
 
-import taskexecuter.interfaces.ResponseHandlerInterface;
+import distributed_task_executor.interfaces.ResponseHandlerInterface;
 
 public class TaskResponseMeta {
     public long userToken;

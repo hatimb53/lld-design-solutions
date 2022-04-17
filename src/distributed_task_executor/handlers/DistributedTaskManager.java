@@ -1,10 +1,10 @@
-package taskexecuter.handlers;
+package distributed_task_executor.handlers;
 
-import taskexecuter.exceptions.UnAuthorizedUserException;
-import taskexecuter.interfaces.TaskExecutionInterface;
-import taskexecuter.models.Task;
-import taskexecuter.models.TaskResponseMeta;
-import taskexecuter.nodes.Worker;
+import distributed_task_executor.exceptions.UnAuthorizedUserException;
+import distributed_task_executor.interfaces.TaskExecutionInterface;
+import distributed_task_executor.models.Task;
+import distributed_task_executor.models.TaskResponseMeta;
+import distributed_task_executor.nodes.Worker;
 
 import java.util.*;
 import java.util.concurrent.ExecutorService;

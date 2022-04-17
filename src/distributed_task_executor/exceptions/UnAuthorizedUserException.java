@@ -1,4 +1,4 @@
-package taskexecuter.exceptions;
+package distributed_task_executor.exceptions;
 
 import java.util.logging.Level;
 import java.util.logging.Logger;

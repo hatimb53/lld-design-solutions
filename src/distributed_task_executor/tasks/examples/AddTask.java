@@ -1,4 +1,4 @@
-package taskexecuter.tasks.examples;
+package distributed_task_executor.tasks.examples;
 
 
 import java.util.logging.Level;

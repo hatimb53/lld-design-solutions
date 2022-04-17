@@ -1,6 +1,6 @@
-package taskexecuter.models;
+package distributed_task_executor.models;
 
-import taskexecuter.enums.TaskStatus;
+import distributed_task_executor.enums.TaskStatus;
 
 public class TaskResponse {
     public long taskId;

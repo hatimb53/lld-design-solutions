@@ -1,4 +1,4 @@
-package taskexecuter.enums;
+package distributed_task_executor.enums;
 
 public enum TaskType {
    A,
